@@ -1,4 +1,4 @@
-# MinIODownloadFile
+# MinIODownloadFile ![Build Status](https://github.com/pcbimon/MinIODownloadFile/actions/workflows/dotnet.yml/badge.svg)
 
 This project demonstrates how to download a file from MinIO to a `MemoryStream` and then save it to a physical file using .NET 9.
 
